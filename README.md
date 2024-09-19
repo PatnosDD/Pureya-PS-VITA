@@ -8,6 +8,8 @@ NOTICE: ONLY WINDOWS VERSION IS SUPPORTED(Which also means you should be running
 
 ```IF YOU WANT TO UPDATE THE GAME, UPDATE THE GAME FILES TOO, NOT JUST VPK```
 
+![banner HD](https://github.com/user-attachments/assets/43b0f94f-e9fd-4dc3-aa61-df0ecce4fa60)
+
 
 **If you want to support the project, you can leave a tip on one of those websites:**
 

@@ -10,7 +10,6 @@ NOTICE: ONLY WINDOWS VERSION IS SUPPORTED(Which also means you should be running
 
 ![banner HD](https://github.com/user-attachments/assets/43b0f94f-e9fd-4dc3-aa61-df0ecce4fa60)
 
-
 **If you want to support the project, you can leave a tip on one of those websites:**
 
 Ko-Fi: https://ko-fi.com/patnosd

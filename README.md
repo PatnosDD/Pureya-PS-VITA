@@ -16,7 +16,7 @@ Ko-Fi: https://ko-fi.com/patnosd
 
 Patreon: https://www.patreon.com/PatnosD
 
-PayPal: https://paypal.me/PatnosDD
+PayPal: https://paypal.me/DPatnosD
 
 Known Issues:
 - Pause menu needs few seconds to load, so it may look like freeze
